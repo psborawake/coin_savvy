@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432042953718",
+    "project_id": "coin-savvy-flutter-project",
+    "storage_bucket": "coin-savvy-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432042953718:android:54d48fb75ec13711ccd5d7",
+        "android_client_info": {
+          "package_name": "com.example.coin_savvy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyicoYFLbHpkzc3gpTaO6R69ZBqGJJe4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
